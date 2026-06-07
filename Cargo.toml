@@ -1,0 +1,11 @@
+[package]
+name = "raster-line"
+version = "0.1.0"
+edition = "2021"
+description = "Rasterization primitives: Bresenham's line, midpoint circle, scanline fill, polygon rasterization"
+license = "MIT"
+repository = "https://github.com/SuperInstance/raster-line"
+keywords = ["rasterization", "bresenham", "scanline", "polygon", "graphics"]
+categories = ["graphics", "algorithms"]
+
+[dependencies]
